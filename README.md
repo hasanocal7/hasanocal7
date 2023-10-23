@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)
+![MasterHead](https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)
 <h1 align="center">Hi 👋, I'm Hasan ÖCAL</h1>
 <h3 align="center">A passionate Backend Developer from Türkiye</h3>
 
